@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI Application</string>
+    <string name="mass_kg">Mass [kg]</string>
+    <string name="mass_lb">Mass [lb]</string>
+    <string name="height_cm">Height [cm]</string>
+    <string name="height_in">Height [in]</string>
+    <string name="count">count</string>
+    <string name="bmi_value">BMI_VALUE</string>
+    <string name="value_format">%.02f</string>
+    <string name="illegal_argument">Illegal argument</string>
+    <string name="metric_units">Metric units</string>
+    <string name="imperial_units">Imperial units</string>
+    <string name="about_author">About the author</string>
+    <string name="name_wiktor_kilijan">Name: Wiktor Kilijan</string>
+    <string name="id_238329">ID: 238329</string>
+</resources>

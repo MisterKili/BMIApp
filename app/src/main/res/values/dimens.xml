@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topScreenMargin">14dp</dimen>
+    <dimen name="sideScreenMargin">26dp</dimen>
+    <dimen name="betweenElementsMargin">24dp</dimen>
+    <dimen name="smallBetweenElementsMargin">12dp</dimen>
+    <dimen name="largeTopScreenMargin">100dp</dimen>
+</resources>
